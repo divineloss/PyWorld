@@ -1,1 +1,3 @@
-print("Hello World!")
+VAR="!!!"
+
+print("Hello World{}".format(VAR))
